@@ -47,8 +47,8 @@
             android:layout_marginLeft="20dp"
             android:layout_toRightOf="@+id/tv_user_pw"
             android:hint="PW" />
-        <Button
 
+        <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_below="@id/et_user_pw"
